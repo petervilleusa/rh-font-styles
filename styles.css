@@ -1,4 +1,74 @@
 @font-face {   
+  font-family: 'rhc-hairline';   
+  src: url(https://static1.squarespace.com/static/5c01b80fda02bca8e44e3131/t/62e1a6ef0d0a443a082e43b5/1658955503670/RHC-Hairline.otf);}
+  .rhc-hairline {
+    font-family: 'rhc-hairline', serif;
+  }
+
+  @font-face {   
+  font-family: 'rhc-hairline-italic';   
+  src: url(https://static1.squarespace.com/static/5c01b80fda02bca8e44e3131/t/62e1a6f682e57f170f254812/1658955510254/RHC-HairlineItalic.otf);}
+  .rhc-hairline-italic {
+    font-family: 'rhc-hairline-italic', serif;
+  }
+
+  @font-face {   
+  font-family: 'rhc-italic';   
+  src: url(https://static1.squarespace.com/static/5c01b80fda02bca8e44e3131/t/62e1a6fa9cdbec3120d681ae/1658955514388/RHC-Italic.otf);}
+  .rhc-italic {
+    font-family: 'rhc-italic', serif;
+  }
+
+  @font-face {   
+  font-family: 'rhc-roman';   
+  src: url(https://static1.squarespace.com/static/5c01b80fda02bca8e44e3131/t/62e1a6fe71195d459e90b90a/1658955518165/RHC-Roman.otf);}
+  .rhc-roman {
+    font-family: 'rhc-roman', serif;
+  }
+
+  @font-face {   
+  font-family: 'rhc-thin';   
+  src: url(https://static1.squarespace.com/static/5c01b80fda02bca8e44e3131/t/62e1a702ac63416e08f9123c/1658955522471/RHC-Thin.otf);}
+  .rhc-thin {
+    font-family: 'rhc-thin', serif;
+  }
+
+  @font-face {   
+  font-family: 'rhc-thin-italic';   
+  src: url(https://static1.squarespace.com/static/5c01b80fda02bca8e44e3131/t/62e1a705792f2f7e53cda396/1658955525548/RHC-ThinItalic.otf);}
+  .rhc-thin-italic {
+    font-family: 'rhc-thin-italic', serif;
+  }
+
+  @font-face {   
+  font-family: 'rhc-ultra-hairline';   
+  src: url(https://static1.squarespace.com/static/5c01b80fda02bca8e44e3131/t/62e1a708a86dcf20ca5c2374/1658955528985/RHC-UltraHairline.otf);}
+  .rhc-ultra-hairline {
+    font-family: 'rhc-hairline', serif;
+  }
+
+  @font-face {   
+  font-family: 'rhc-ultra-hairline-italic';   
+  src: url(https://static1.squarespace.com/static/5c01b80fda02bca8e44e3131/t/62e1a70db6833c4dc2c9ffea/1658955533271/RHC-UltraHairlineItalic.otf);}
+  .rhc-ultra-hairline-italic {
+    font-family: 'rhc-ultra-hairline-italic', serif;
+  }
+
+  @font-face {   
+  font-family: 'rhc-ultra-thin';   
+  src: url(https://static1.squarespace.com/static/5c01b80fda02bca8e44e3131/t/62e1a71182e4ad38a74a0742/1658955537424/RHC-UltraThin.otf);}
+  .rhc-ultra-thin {
+    font-family: 'rhc-ultra-thin', serif;
+  }
+
+  @font-face {   
+  font-family: 'rhc-ultra-thin-italic';   
+  src: url(https://static1.squarespace.com/static/5c01b80fda02bca8e44e3131/t/62e1a7145091f82daf198aa6/1658955540922/RHC-UltraThinItalic.otf);}
+  .rhc-ultra-thin-italic {
+    font-family: 'rhc-ultra-thin-italic', serif;
+  }
+
+  @font-face {   
   font-family: 'sans-bold';   
   src: url(https://static1.squarespace.com/static/5c01b80fda02bca8e44e3131/t/62e0180d29fb382b1777fb1f/1658853389100/RHSans-Bold.otf);}
   .sans-bold {
